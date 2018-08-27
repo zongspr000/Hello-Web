@@ -1,1 +1,4 @@
 # Ada Lovelace
+Ada Lovelace is debatably considered the world's first programmer, born to famed poet Lord Byron and Anne Isabelle Milbanke. Due to her mother not wanting her to learn poetry, she had Ada take mathematics and music, which helped Ada later develop into a programmer-type mathematician. Ada was later introduced to Charles Babbage, the "father of computers", and they corresponded for many decades, even after Ada married William King, the count of Lovelace. In the mid-1840s, Ada wrote her first "computer algorithm", using her own notes and drawing inspiration from translating a description of Charles Babbage's Analytical Engine.
+
+In 1852, Ada Lovelace died of cancer at 36 years old. About a century later, Ada's work was republished when people started actually building the first computer, and she was then truly recognized for her work.
