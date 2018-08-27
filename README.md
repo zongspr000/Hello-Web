@@ -1,13 +1,13 @@
-## Welcome to GitHub Pages
+# Welcome to Hello-Web
 
-You can use the [editor on GitHub](https://github.com/zongspr000/Hello-Web/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Computer Science
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+What is CompSci?
+https://github.com/zongspr000/Hello-Web/blob/master/What%20is%20CompSci.md
 
-### Markdown
+## People to Know
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+https://github.com/zongspr000/Hello-Web/blob/master/People%20Of%20Interest.md
 ```markdown
 Syntax highlighted code block
 
