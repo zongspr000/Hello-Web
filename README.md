@@ -1,8 +1,8 @@
 # CompSci 1
 
-[Course Description](https://github.com/zongspr000/Hello-Web/blob/master/CS%20Course%20Description)
+[Course Description](https://github.com/zongspr000/Hello-Web/blob/master/CS%20Course%20Description.md)
 
-[Syllabus](https://github.com/zongspr000/Hello-Web/blob/master/Syllabus)
+[Syllabus](https://github.com/zongspr000/Hello-Web/blob/master/Syllabus.md)
 
 ## Computer Science
 
